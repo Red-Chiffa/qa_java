@@ -11,7 +11,7 @@ import java.util.List;
 @RunWith(MockitoJUnitRunner.class)
 public class FelineTest {
 
-    @Mock
+
     Feline feline = new Feline();
 
     @Test

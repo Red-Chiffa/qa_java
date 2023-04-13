@@ -14,7 +14,7 @@ public class CatTest {
 
     @Mock
     Feline feline;
-    @Mock
+
     Cat cat;
     @Test
     public void catIsPredator() throws Exception {
